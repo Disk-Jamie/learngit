@@ -1,0 +1,53 @@
+<extend name="./Public/muban" />
+    <block name="main">
+    <style>
+    #vcodeImg{
+        width:120px;
+        height:52px;
+        cursor:pointer;
+    }
+</style>
+ <div class="land">
+    <div class="listCon">
+        <div class="contenter">
+            <div class="tab">
+                <div class="tabCon">
+                    <div class="conInfo conInfos">
+                        <div class="homeRigth homeRigthBg homeRigths">
+                            <div class="homeBor ">
+                                <div class="homeTit homeTitTop">
+                                    <div class="homeTitLeft">
+                                        <span> </span><h2>注册极果</h2>
+                                    </div>
+                                </div>
+                                <div class="userMsg1 userReg">
+                                    <div class="userTel">
+                                        <p class="userRegImg"><img src="http://cdn.jiguo.com/p1/i/yj_reg1.png" alt=""></p>
+                                        <p class="userRegTit"><span>验证手机号</span>
+                                        <span class="userRegTits">设置密码</span></p>
+                                        <div class="userPass">
+                                            <form action="" method="post">
+                                                <p><input name="tel" placeholder="请输入登录手机号" value="请输入登录手机号"  type="text">
+                                                </p>
+                                                <p class="yanZheng">
+                                                <input name="vcode" placeholder="请输入图片校验码" id="vcode" type="text">
+                                                    <img title="看不清？点击更换另一个验证码" src="" id="vcodeImg">
+                                                </p>
+                                                <p class="yanZheng"><input name="code" placeholder="请输入验证码" value="请输入验证码" type="text">
+                                                <a href="" id="vcodeImg">获取验证码</a>
+                                                <p class="userTelBang">
+                                                    <a href="">确定</a>
+                                                </p>
+                                            </form>
+
+                                         </div>
+                                         
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>     
+    </block>

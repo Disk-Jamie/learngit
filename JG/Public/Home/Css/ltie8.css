@@ -1,0 +1,138 @@
+﻿.codeim,
+.lhb_detail_pro_buy .deltxt,
+.lhb_detail_tit2 .teachnam,
+.lhb_detail_tit2 .koswe,
+.lhb_detail_pf_wp,
+.lhb_detail_xiv,
+.lhb_detail_xiv span,
+.zb_form_dl2 .change,
+.zb_bank_box_sty .yanNUm,
+.zb_yuyue_txt .text_input_box,
+.zdfyh .zdfyh_ico,
+.zb_lst8 li dd .tefg,
+.zb_lst9 li .timnum,
+.zb_lst9 li .timico,
+.teach_rmtp .teachts .zdico span,
+.tjlst .blue,
+.duarea .state,
+.duarea .taget .cls,
+.duarea .nvjik,
+.duarea .dudl .sel_box,
+.movlst2 .teachvbn .svst,
+.fntab_btn,
+{
+    *display: inline;
+}
+
+.dudl dd {
+    *clear: both
+}
+
+.movlst .teachvbn .markrgt {
+    *zoom: 1;
+}
+
+.zb_dl_lst3 dt {
+    *display: inline;
+    *zoom: 1;
+    *vertical-align: middle;
+}
+
+.zb_lst5,
+.movlst .teachvbn .change_ico,
+.movlst2 {
+    *display: inline;
+    *zoom: 1;
+}
+
+.zb_tab_ct2 .rgt {
+    *padding-right: 20px;
+}
+
+.zb_bz_ct .zb_htit2 .link_bule {
+    *margin-top: -20px;
+}
+
+.teacher-wrap .content-warp .content-teacher-list .list-box ul li dl:hover > dd.title {
+    *padding-top: 15px;
+}
+
+.star-wrap:after {
+    *zoom: 1;
+}
+
+.koo_links ul li {
+    *margin-right: 43px;
+}
+
+.class-by-sort ul.class-r li.date span {
+    *margin: 0;
+    *padding-right: 2px;
+}
+
+.class-by-sort ul.class-r li .v-radio {
+    *position: relative;
+    *top: 12px;
+}
+
+.list_txt_eclip {
+    *position: relative;
+}
+
+* + html .zb_mov_pxs2 .vip-price {
+    top: -5px;
+}
+
+* + html .zb_mov_btmr .spacer {
+    top: -2px;
+}
+
+* + html .zb_lst5 .zb_mov_ico {
+    top: -2px;
+}
+
+* + html .class-by-sort ul.class-l .icons-gray-up,
+* + html .class-by-sort ul.class-l .icons-gray-dp {
+    right: -27px;
+}
+
+.page .page_btn, .page .tip, .page .page_lst {
+    *display: inline;
+    *zoom: 1;
+}
+
+.lhb_gd1 span {
+    *width: 19.9%;
+}
+
+.logo-search .search-boxs .search-text input {
+    *padding-top: 7px;
+}
+
+.navs .all-menus .down-menu > UL > LI I {
+    *position: relative;
+    *top: -49px;
+    *right: -151px;
+}
+
+.class-wrap .right-side .class-list {
+    *height: 398px;
+    *position: relative;
+}
+
+.class-wrap .right-side div.six_class_box, .class-wrap .right-side div.eight_class_box {
+    *position: relative;
+    *height: 398px;
+    overflow: hidden;
+}
+
+.main-vip .curse-wrapper-free DL{margin-right: 15px !important; }
+.curse-wrapper-recommendation DL{margin-right: 15px !important; }
+
+
+
+
+
+
+
+
